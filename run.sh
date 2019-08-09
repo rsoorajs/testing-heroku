@@ -1,5 +1,5 @@
 #!/bin/bash
 
-cd tcloud
+cd peerflix-server
 
-node server.js
+web: npm start
